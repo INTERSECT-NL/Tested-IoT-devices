@@ -1,3 +1,4 @@
+![alt text](intersect_logo.png)
 # What's the goal of this repo?
 This GitHub page collects information on IoT devices that have been analysed by project partners of the *INTERSECT* project.
 
