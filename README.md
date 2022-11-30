@@ -34,16 +34,16 @@ The goal of this page is to share knowledge and expertise within the consortium 
  | Various                                 | 4G/LTE    | Radboud            | [Link](https://revolte-attack.net)                                                                                                   |
  | WLED                                    | -         | Fontys             | [Link](https://fontys-intersect.github.io/#/case/wled)                                                                               |
 
-## 2. IoT ispectors and tools
-| Topic                | Author           | External link                                       |
+## 2. Tools
+| Topic                | Contact          | External link                                       |
 | -------------------- | ---------------- | --------------------------------------------------- |
-| Smart Home Inspector | Prof. Gunes Acar | [Link](https://inspector.engineering.nyu.edu/#home) |
+| Smart Home Inspector | Gunes Acar       | [Link](https://inspector.engineering.nyu.edu/#home) |
     
 ## 3. Virtual enviroment setup and emulation guides
 
-| Topic                   | Author                | External link                                  |
+| Topic                   | Contact               | External link                                  |
 | ----------------------- | --------------------- | ---------------------------------------------- |
-| 5G Network Lab setup    | Prof. Katharina Kohls | [Link](https://kkohls.org/guides_lab.html)     |
-| Open5GS Virtual Setup   | Prof. Katharina Kohls | [Link](https://kkohls.org/guides_open5gs.html) |
-| SIMtrace Card Emulation | Prof. Katharina Kohls | [Link](https://kkohls.org/guides_cardem.html)  |
+| 5G Network Lab setup    | Katharina Kohls       | [Link](https://kkohls.org/guides_lab.html)     |
+| Open5GS Virtual Setup   | Katharina Kohls       | [Link](https://kkohls.org/guides_open5gs.html) |
+| SIMtrace Card Emulation | Katharina Kohls       | [Link](https://kkohls.org/guides_cardem.html)  |
 
