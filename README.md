@@ -1,6 +1,6 @@
 ![alt text](intersect_logo.png)
 # What's the goal of this repo?
-This GitHub page collects information on IoT devices that have been analysed by project partners of the *INTERSECT* project.
+This GitHub page collects information on IoT devices that have been analysed by project partners of the [*INTERSECT*](https://intersct.nl) project.
 
 The goal of this page is to share knowledge and expertise within the consortium (and possibly beyond) about how to analyse different types of IoT devices and the protocols these involve, possibly using non-standard software or hardware tools.
 
