@@ -32,7 +32,8 @@ The goal of this page is to share knowledge and expertise within the consortium 
  | TP-Link TL-WR802N Router                | -         | Radboud            | [Link](https://www.cs.ru.nl/bachelors-theses/2022/Ciske_Harsema___1010048___A_security_analysis_of_the_TP-Link_TL-WR802N_Router.pdf) |
  | Various                                 | 4G/LTE    | Radboud            | [Link](https://imp4gt-attacks.net)                                                                                                   |
  | Various                                 | 4G/LTE    | Radboud            | [Link](https://revolte-attack.net)                                                                                                   |
- | WLED                                    | -         | Fontys             | [Link](https://fontys-intersect.github.io/#/case/wled)                                                                               |
+ | WLED                                    | -         | Fontys             | [Link](https://fontys-intersect.github.io/#/case/wled)
+ | OpenMote B, Zolertia RE-Mote            | -         | TU/e               | [Link](https://surfdrive.surf.nl/files/index.php/s/6U1BmHoSr60gcZF) 
 
 ## 2. Tools
 | Topic                | Contact          | External link                                       |
