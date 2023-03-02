@@ -3,15 +3,11 @@
 This GitHub page collects information on IoT devices that have been analysed by project partners of the [*INTERSECT*](https://intersct.nl) project.
 
 The goal of this page is to share knowledge and expertise within the consortium (and possibly beyond) about how to analyse different types of IoT devices and the protocols these involve, possibly using non-standard software or hardware tools.
-
- To do that this page gives an overview of devices and protocols that have been analysed with pointers to additional information, which can be webpages, papers, theses, tools, other GitHub sites, etc.
-
- This GitHub repository is maintained by Cristian Daniele, Erik Poll and Seyed Behnam.
-
- There are three main tables containing the following information:
+To do that this page gives an overview of devices and protocols that have been analysed with pointers to additional information, which can be webpages, papers, theses, tools, other GitHub sites, etc.
+There are three main tables containing the following information:
 1. Tested IoT devices
-2. IoT ispectors and tools
-3. Virtual enviroments and emulations guides
+2. IoT inspectors and tools
+3. Virtual environments and emulations guides
 
  
 ## 1. Tested IoT devices
@@ -49,7 +45,7 @@ The goal of this page is to share knowledge and expertise within the consortium 
 | Smart Home Inspector        | Gunes Acar    | [Link](https://inspector.engineering.nyu.edu/#home) |
 
     
-## 3. Virtual enviroment setup and emulation guides
+## 3. Virtual environment setup and emulation guides
 
 | Topic                   | Contact         | External link                                  |
 | ----------------------- | --------------- | ---------------------------------------------- |
